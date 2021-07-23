@@ -1,0 +1,6 @@
+# Assessment 1
+
+1. Review workshop 6 materials and build your AWS based Amazon Rekognition application that covers Text-in-image application and Facial comparison
+
+2. Prepare an .rmd document that presents a case on how your application can be used in business settings. You will need to source the images yourself and upload them to your GitHub repository
+3.
